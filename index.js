@@ -89,3 +89,21 @@
 //   : a < 5
 //   ? alert("smaller than 5")
 //   : alert("is equal to 5");
+
+// Exercise
+// ask for gender input from the user and based on the input show if the user is male or female.
+// if male is shown ask for the salary and compare if the salary is greater thant 25000.
+// if female is selected ask for the age, show in alert if the female is ready to marry
+
+// let gender = prompt("Enter your gender as 'male' or 'female");
+// if (gender == "male") {
+//   let salary = Number(prompt("Enter your salary"));
+//   salary > 25000
+//     ? alert("salary is greater than 25000")
+//     : salary < 25000
+//     ? alert("salary is less than 25000")
+//     : alert("salary is 25000");
+// } else if ((gender = "female")) {
+//   let age = Number(prompt("Enter your age"));
+//   age >= 18 ? alert("you can marry") : alert("Not appropriate to marry");
+// }
